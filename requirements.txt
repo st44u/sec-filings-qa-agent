@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+tqdm
+pandas
+openai
+sentence-transformers
+faiss-cpu
+chromadb
+python-dotenv
+streamlit
